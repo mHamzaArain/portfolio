@@ -16,18 +16,28 @@
 * [1. IMDB Using MYSQL](  )
 * [2. Enron Dataset]( https://github.com/mHamzaArain/enron_fraud_emials_analysis )
 * [3. House Price Dataset]( https://github.com/mHamzaArain/House-Prices---Advanced-Regression-Techniques )
+* [4. Iris dataset]()
 
 
-## ML & DL Projects
+## ML Projects
+
+## DL Projects
+
+# NLP Projects 
+
+## Computer Vision Projects
+
+## Timeseries Analysis
 
 ## Capstone Projects
 
-
-
 ## Deployment
-
-## Cloud Computing
-
-
+* [1. Heroku]()
+* [2. AWS]()
+* [3. Azure]()
+* [4. Google Cloud]
+* [5. Docker/Kubernetes]
+* [6. Web]
+* [7. Moblile App]
 
 
