@@ -27,7 +27,8 @@
 ### NLP
 ### Computer Vision 
 ### Timeseries Analysis
-### Other
+### Recommendation Systems
+[1. Movie Recomendation System]( https://github.com/mHamzaArain/movie_recommendation )
 
 ## Deployment
 * [1. Heroku]()
