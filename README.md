@@ -24,6 +24,8 @@
 * [1. Tableau]()
 
 ## Projects
+### Forcasting
+[1. Flight Price Fare Prediction]( https://github.com/mHamzaArain/flight-price-fare-prediction )
 ### NLP
 ### Computer Vision 
 ### Timeseries Analysis
