@@ -40,4 +40,12 @@
 * [6. Web]
 * [7. Moblile App]
 
+## Credits and Materials
+* [1. Linear Algebra]( )
+* [2. Probability & Statistics]()
+* [3. Machine Learning]()
+* [4. Deep Learning]()
+* [5. MLOPS]()
+* [6. Timeseries Analysis]
+
 
