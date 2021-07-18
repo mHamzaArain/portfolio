@@ -19,26 +19,20 @@
 * [4. Iris dataset]()
 
 
-## ML Projects
-
-## DL Projects
-
-# NLP Projects 
-
-## Computer Vision Projects
-
-## Timeseries Analysis
-
-## Capstone Projects
+## Projects
+### NLP
+### Computer Vision 
+### Timeseries Analysis
+### Other
 
 ## Deployment
 * [1. Heroku]()
 * [2. AWS]()
 * [3. Azure]()
-* [4. Google Cloud]
-* [5. Docker/Kubernetes]
-* [6. Web]
-* [7. Moblile App]
+* [4. Google Cloud]()
+* [5. Docker/Kubernetes]()
+* [6. Web]()
+* [7. Moblile App]()
 
 ## Credits and Materials
 * [1. Linear Algebra]( )
@@ -46,6 +40,6 @@
 * [3. Machine Learning]()
 * [4. Deep Learning]()
 * [5. MLOPS]()
-* [6. Timeseries Analysis]
+* [6. Timeseries Analysis]()
 
 
