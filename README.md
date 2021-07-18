@@ -39,8 +39,9 @@
 * [7. Moblile App]()
 
 ## Credits and Materials
-* [1. Linear Algebra]( )
-* [2. Probability & Statistics]()
+* [1. Linear Algebra]( https://github.com/mHamzaArain/portfolio/blob/main/materials/01_linear_algebra )
+* [2. Probability & Statistics]( https://github.com/mHamzaArain/portfolio/tree/main/materials/03_probability_statistics )
+* [3. EDA]( https://github.com/mHamzaArain/portfolio/tree/main/materials/02_eda )
 * [3. Machine Learning]()
 * [4. Deep Learning]()
 * [5. MLOPS]()
