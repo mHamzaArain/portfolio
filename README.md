@@ -1,5 +1,9 @@
 # Data Science Portfolio
 
+## Language Fundamentals
+[1. Python]( https://github.com/mHamzaArain/PyhtonFinal )
+[2. SQL](  )
+
 ## Web Scraping 
 * [1. Amazon Book Price Scraping]( https://github.com/mHamzaArain/Web_scraping/tree/master/Scrapy/Projects/amazon/amazon )
 * [2. NBA Player Score Scraping]( https://github.com/mHamzaArain/Web_scraping/tree/master/Scrapy/Projects/nba )
