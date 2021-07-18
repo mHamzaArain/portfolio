@@ -34,7 +34,9 @@
 [1. Sentiment Analysis From Scratch]( https://github.com/mHamzaArain/Sentiment_Analysis_Scratch )
 ### Computer Vision 
 [1. Dog Breed Classification]( https://github.com/mHamzaArain/dog_breed_classification_cnn )
+
 [2. Face Generation]( https://github.com/mHamzaArain/FaceGeneration_GAN )
+
 ### Timeseries Analysis
 [1. Weather Prediction]( https://github.com/mHamzaArain/Time_Series_Analysis )
 ### Recommendation Systems
