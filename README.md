@@ -18,7 +18,7 @@
 ![](/images/positions_by_state.png)
 
 ## Advanced Exploratory Data Analysis
-* [1. IMDB Using MySQL](  )
+* [1. IMDB Using MySQL]( https://github.com/mHamzaArain/imdb_mysql_eda/blob/main/eda.ipynb )
 * [2. Enron Dataset]( https://github.com/mHamzaArain/enron_fraud_emials_analysis )
 * [3. House Price Dataset]( https://github.com/mHamzaArain/House-Prices---Advanced-Regression-Techniques )
 * [4. Iris dataset]()
