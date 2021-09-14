@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## Language Fundamentals
-[1. Python]( https://github.com/mHamzaArain/PyhtonFinal )
+[1. Python]( https://github.com/mHamzaArain/PyhtonFinal )</br>
 [2. SQL](  )
 
 ## Web Scraping 
