@@ -21,7 +21,7 @@
 * [1. IMDB Using MySQL]( https://github.com/mHamzaArain/imdb_mysql_eda )
 * [2. Enron Dataset]( https://github.com/mHamzaArain/enron_fraud_emials_analysis )
 * [3. House Price Dataset]( https://github.com/mHamzaArain/House-Prices---Advanced-Regression-Techniques )
-* [4. Iris dataset]()
+
 ![](/images/positions_by_state.png)
 
 ## Data Visualization
@@ -32,6 +32,8 @@
 [1. Flight Price Fare Prediction(Random Forest Regression)]( https://github.com/mHamzaArain/flight-price-fare-prediction )
 ### NLP
 [1. Sentiment Analysis(Only Numpy)]( https://github.com/mHamzaArain/Sentiment_Analysis_Scratch )
+[2. Quora Questions Similarity]( https://github.com/mHamzaArain/QuoraQuestionSimilarity )
+[3. Spam Classifier]( https://github.com/mHamzaArain/SpamClassifier )
 ### Computer Vision 
 [1. Dog Breed Classification(Transfer Learning: VGG16)]( https://github.com/mHamzaArain/dog_breed_classification_cnn )
 
